@@ -5,6 +5,6 @@ int main()
 	cout << "one\n";
 	cout << "two\n";
 	cout << "three";
-	cout << "four";
+	cout << "four"; cin >> " "
 	return 0;
 }
